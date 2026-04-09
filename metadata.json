@@ -1,0 +1,5 @@
+{
+  "name": "HRTC Bus Service",
+  "description": "A comprehensive bus service application for Himachal Road Transport Corporation, featuring seat booking, real-time tracking, and emergency support.",
+  "requestFramePermissions": ["geolocation"]
+}
